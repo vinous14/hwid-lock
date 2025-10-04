@@ -1,0 +1,2 @@
+Your HWID: 
+Copy this HWID and replace MASTER_HWID in the code
