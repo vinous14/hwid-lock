@@ -1,0 +1,4 @@
+# Authorized Hardware IDs
+# Generated on: HomePC
+# Master HWID: REPLACE_WITH_YOUR_MASTER_HWID
+REPLACE_WITH_YOUR_MASTER_HWID
